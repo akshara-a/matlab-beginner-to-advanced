@@ -12,3 +12,6 @@ Beginner Level <br/>
 8. Max and Min value from a list of numbers <br/>
 9. rand() <br/>
 10. sqrt() <br/>
+11. User Input <br/>
+12. Leap Year Checker <br/>
+13. Simple Calculator <br/> 
