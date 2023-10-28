@@ -15,3 +15,8 @@ Beginner Level <br/>
 11. User Input <br/>
 12. Leap Year Checker <br/>
 13. Simple Calculator <br/> 
+14. Switch Statement <br/>
+15. Bar chart <br/>
+16. format bank <br/>
+17. Vector Addition <br/>
+18. Sub Vectors <br/>
